@@ -8,7 +8,7 @@ first cobol lab
 - Write a Hello World COBOL program
 - Write a "Ask for Name and Say Hi Name" COBOL program
 
-submit a pull request.
+submit a pull request. <=== Well, NO, you do not do this, because it's a private repo inside of a github classroom.
 
 # Notes on the lab
 

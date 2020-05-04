@@ -1,5 +1,5 @@
        IDENTIFICATION DIVISION.
-       PROGRAM-ID. HELLO-WORLD.
+       PROGRAM-ID. SAY-NAME.
       * simple hello world program
        DATA DIVISION.
        WORKING-STORAGE SECTION.
